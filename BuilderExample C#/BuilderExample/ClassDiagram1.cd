@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BuilderExample.Models.F16">
+    <Position X="3" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>Models\F16.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderExample.Models.Boeing747">
+    <Position X="7" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAgAAAAAAgAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>Models\Boeing747.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuilderExample.Models.AirbusA380">
+    <Position X="5" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAgAAAAAAgAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>Models\AirbusA380.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuilderExample.Director">
+    <Position X="8.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAACA=</HashCode>
+      <FileName>Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderExample.Builders.F16Builder">
+    <Position X="3" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAABAAAEAAoAAAABAAAAAAAAEAAAAAABAA=</HashCode>
+      <FileName>Builders\F16Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.147" />
+  </Class>
+  <Class Name="BuilderExample.Builders.Boeing747Builder">
+    <Position X="5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAABAAAEAAoAAAABAAAAAAAAEAAAAAABAA=</HashCode>
+      <FileName>Builders\Boeing747Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuilderExample.Builders.AirbusA380Builder">
+    <Position X="7" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAABAAAEAAoAAAABAAAAAAAAEAAAAAABAA=</HashCode>
+      <FileName>Builders\AirbusA380Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BuilderExample.Client" Collapsed="true">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BuilderExample.Builders.IAircraftBuilder">
+    <Position X="5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAABAAAEAAoAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Builders\IAircraftBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

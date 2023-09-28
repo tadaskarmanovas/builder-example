@@ -1,0 +1,14 @@
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\bin\Debug\net6.0\BuilderExample.exe
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\bin\Debug\net6.0\BuilderExample.deps.json
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\bin\Debug\net6.0\BuilderExample.runtimeconfig.json
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\bin\Debug\net6.0\BuilderExample.dll
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\bin\Debug\net6.0\BuilderExample.pdb
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\BuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\BuilderExample.AssemblyInfoInputs.cache
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\BuilderExample.AssemblyInfo.cs
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\BuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\BuilderExample.dll
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\refint\BuilderExample.dll
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\BuilderExample.pdb
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\BuilderExample.genruntimeconfig.cache
+C:\Users\be8242\source\repos\BuilderExample\BuilderExample\obj\Debug\net6.0\ref\BuilderExample.dll
